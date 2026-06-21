@@ -1,4 +1,4 @@
-[Bellabeat.ipynb](https://github.com/user-attachments/files/29176867/Bellabeat.ipynb)# Bellabeat-Fitness-Data-Analysis-Marketing-Strategy-Dashboard
+# Bellabeat-Fitness-Data-Analysis-Marketing-Strategy-Dashboard
 
 Situation:
 Bellabeat, a high-tech wellness company for women, sought to understand how consumers use existing smart fitness devices in order to inform marketing strategy for one of their own product lines (Leaf, Time, or Spring). As a junior analyst on the marketing analytics team, I was tasked with analyzing third-party smart device usage data (FitBit Fitness Tracker Data, public dataset via Kaggle/Mobius) to surface behavioral trends that could be applied to Bellabeat's customer base and translated into actionable marketing recommendations.
@@ -1978,7 +1978,7 @@ Bellbeat Python Script:
 abeat.ipynb…]()
 
 
-
+[Bellabeat.ipynb](https://github.com/user-attachments/files/29176867/Bellabeat.ipynb)
 
 
 
